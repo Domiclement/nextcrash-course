@@ -1,0 +1,15 @@
+.button{
+  color: red;
+background-color: rgb(79, 232, 232);
+}
+
+
+.contactbutton{
+  border: 10px;
+  border-color: magenta;
+  border-radius: 4px;
+  color: cyan;
+  font-size: larger;
+  font-style: oblique;
+  
+}
